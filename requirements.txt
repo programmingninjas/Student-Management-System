@@ -1,0 +1,5 @@
+1) pip install pillow
+
+2) pip install keyboard
+
+3) pip install mysql-connector-python
